@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|c:\\users\\goula\\onedrive\\documentos\\desenv\\cursopooc#\\cursopooc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|solutionrelative:cursopooc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|c:\\users\\goula\\onedrive\\documentos\\desenv\\cursopooc#\\cursopooc#\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|solutionrelative:cursopooc#\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|c:\\users\\goula\\onedrive\\documentos\\desenv\\cursopooc#\\cursopooc#\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|solutionrelative:cursopooc#\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|c:\\users\\goula\\onedrive\\documentos\\desenv\\cursopooc#\\cursopooc#\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ACA920-526A-4B53-945B-6E3353064123}|CursoPooC#\\CursoPooC#.csproj|solutionrelative:cursopooc#\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Carro.cs",
+              "RelativeDocumentMoniker": "CursoPooC#\\Carro.cs",
+              "ToolTip": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Carro.cs",
+              "RelativeToolTip": "CursoPooC#\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:21:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "CursoPooC#\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\ContaBancaria.cs",
+              "RelativeToolTip": "CursoPooC#\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:15:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Musica.cs",
+              "RelativeDocumentMoniker": "CursoPooC#\\Musica.cs",
+              "ToolTip": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Musica.cs",
+              "RelativeToolTip": "CursoPooC#\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:56:20.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Program.cs",
+              "RelativeDocumentMoniker": "CursoPooC#\\Program.cs",
+              "ToolTip": "C:\\Users\\goula\\OneDrive\\Documentos\\desenv\\CursoPooC#\\CursoPooC#\\Program.cs",
+              "RelativeToolTip": "CursoPooC#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:52:34.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

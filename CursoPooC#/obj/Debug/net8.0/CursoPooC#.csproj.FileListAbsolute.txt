@@ -1,0 +1,14 @@
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\bin\Debug\net8.0\CursoPooC#.exe
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\bin\Debug\net8.0\CursoPooC#.deps.json
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\bin\Debug\net8.0\CursoPooC#.runtimeconfig.json
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\bin\Debug\net8.0\CursoPooC#.dll
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\bin\Debug\net8.0\CursoPooC#.pdb
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.AssemblyInfoInputs.cache
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.AssemblyInfo.cs
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.csproj.CoreCompileInputs.cache
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.dll
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\refint\CursoPooC#.dll
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.pdb
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\CursoPooC#.genruntimeconfig.cache
+C:\Users\goula\OneDrive\Documentos\desenv\CursoPooC#\CursoPooC#\obj\Debug\net8.0\ref\CursoPooC#.dll
